@@ -10,6 +10,7 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
+  printf("Result: %d\n", myFunction(5, 7));
 }
 
 // put function definitions here:
